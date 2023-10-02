@@ -1,2 +1,2 @@
-echo "it is a test"
+echo `it is a test`
 
