@@ -1,0 +1,23 @@
+data1.txt:1,Bing Crosby,White Christmas,1942
+data1.txt:42,Los Del Rio,Macarena,1996
+data1.txt:13,Eminem,Lose Yourself,2002
+data1.txt:36,Eminem,Without Me,2002
+data1.txt:7,Whitney Houston,I Will Always Love You,1992
+data2.txt:84,Boyz II Men,End of the Road,1992
+data1.txt:8,Pink Floyd,Another Brick in the Wall (part 2),1980
+data1.txt:16,The Beatles,Let it Be,1970
+data1.txt:18,Bee Gees,Stayin' Alive,1978
+data1.txt:23,George Harrison,My Sweet Lord,1971
+data1.txt:24,Abba,Dancing Queen,1976
+data1.txt:30,John Travolta & Olivia Newton-John,You're the One That I Want,1978
+data1.txt:37,The Village People,YMCA,1978
+data1.txt:40,John Lennon,Imagine,1971
+data1.txt:46,Queen,Bohemian Rhapsody,1976
+data2.txt:56,The Rolling Stones,Angie,1973
+data2.txt:57,Mungo Jerry,In the Summertime,1970
+data2.txt:61,Carl Douglas,Kung Fu Fighting,1974
+data2.txt:80,Terry Jacks,Seasons in the Sun,1974
+data2.txt:83,Blondie,Heart of Glass,1979
+data2.txt:86,Tony Orlando & Dawn,Tie a Yellow Ribbon 'round the Old Oak Tree,1973
+data2.txt:88,Shocking Blue,Venus,1970
+data2.txt:89,Eagles,Hotel California,1977
