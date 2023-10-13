@@ -1,7 +1,9 @@
 #include<stdio.h>
+#include<string.h>
 
 void reverse(){
-    char hello[5] = "hello";
+    char hello[] = "hello";
+
     char change;
     int count = sizeof(hello);
     for (int i =0;i<count/2;i++){
@@ -11,8 +13,11 @@ void reverse(){
         
     }
     for (int i=0;i<count;i++){
-        printf("%c",hello[i]);
+        printf("%c ",hello[i]);
+        if (i==count-1)
+            printf("%d\n",hello[count]);
     }
+     
     
 }
 
