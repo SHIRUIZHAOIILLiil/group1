@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    char filename [] = "data.txt";
+    char filename [] = "squares.dat";
     FILE *file = fopen(filename, "r+");
     if (file == NULL){
         perror("");
